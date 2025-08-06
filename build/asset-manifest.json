@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-scofield2207/static/css/main.2de687d5.css",
+    "main.js": "/portfolio-scofield2207/static/js/main.be726c5a.js",
+    "static/media/profil2.jpg": "/portfolio-scofield2207/static/media/profil2.3474fb939c7cecb34d83.jpg",
+    "static/media/profil1.jpg": "/portfolio-scofield2207/static/media/profil1.2af1096c6e28f2c01c58.jpg",
+    "index.html": "/portfolio-scofield2207/index.html",
+    "main.2de687d5.css.map": "/portfolio-scofield2207/static/css/main.2de687d5.css.map",
+    "main.be726c5a.js.map": "/portfolio-scofield2207/static/js/main.be726c5a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2de687d5.css",
+    "static/js/main.be726c5a.js"
+  ]
+}
