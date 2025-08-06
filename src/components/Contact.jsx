@@ -28,7 +28,7 @@ export const Contact = () => {
   };
 
   const handleTwitterClick = () => {
-    window.open("https://twitter.com/klougba_gildas", '_blank');
+    window.open("https://x.com/Scofield2207", '_blank');
   };
 
   return (
