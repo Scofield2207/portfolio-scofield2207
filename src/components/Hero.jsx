@@ -42,17 +42,13 @@ export const Hero = () => {
     setShowModal(false);
   };
 
-  const handleDownloadCV = () => {
-    // Simuler le téléchargement d'un CV
-    const link = document.createElement('a');
-    link.href = '/cv-klougba-gildas.pdf'; // À remplacer par le vrai chemin
-    link.download = 'CV-Klougba-Gildas.pdf';
-    link.click();
-  };
+  
 
   return (
     <>
       <section className="hero-section">
+       
+
         <div className={`hero-content ${isVisible ? 'visible' : ''}`}>
       
           {/* Titre principal */}

@@ -164,7 +164,7 @@ export const Contact = () => {
             </button>
           </div>
         </div>
-      </div>
-    </section>
-  );
+    </div>
+  </section>
+);
 };
