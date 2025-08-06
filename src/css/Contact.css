@@ -984,3 +984,92 @@
     font-size: 11px;
   }
 } 
+
+/* Small Mobile Responsive (220px - 473px) */
+@media (min-width: 220px) and (max-width: 473px) {
+  .contact-section {
+    padding: 40px 16px;
+  }
+  
+  .contact-container {
+    max-width: 100%;
+  }
+  
+  .contact-title {
+    font-size: 1.75rem;
+  }
+  
+  .contact-cards {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  
+  .contact-card {
+    padding: 20px 16px;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .contact-icon {
+    width: 48px;
+    height: 48px;
+    font-size: 1.25rem;
+    margin-bottom: 12px;
+  }
+  
+  .contact-content {
+    text-align: center;
+    width: 100%;
+  }
+  
+  .contact-method {
+    font-size: 1rem;
+    margin-bottom: 6px;
+  }
+  
+  .contact-info {
+    font-size: 0.85rem;
+    margin-bottom: 8px;
+  }
+  
+  .contact-status {
+    margin-top: 6px;
+    font-size: 10px;
+  }
+  
+  .social-section {
+    margin-bottom: 60px;
+  }
+  
+  .social-title {
+    font-size: 1.5rem;
+  }
+  
+  .social-links {
+    gap: 16px;
+  }
+  
+  .social-link {
+    width: 56px;
+    height: 56px;
+    font-size: 1.25rem;
+  }
+  
+  .contact-cta {
+    margin-top: 40px;
+  }
+  
+  .cta-title {
+    font-size: 1.25rem;
+  }
+  
+  .cta-description {
+    font-size: 0.9rem;
+  }
+  
+  .cta-button {
+    padding: 12px 24px;
+    font-size: 0.9rem;
+  }
+} 
