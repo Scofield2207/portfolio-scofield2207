@@ -127,7 +127,7 @@
 }
 
 .cursor {
-  color: var(--primary-gradient);
+  color: orange;
   font-weight: 600;
   animation: blink 1s infinite;
 }
@@ -233,14 +233,6 @@
 .btn-primary span {
   position: relative;
   z-index: 2;
-}
-
-.btn-overlay {
-  position: absolute;
-  inset: 0;
-  background: var(--secondary-gradient);
-  opacity: 0;
-  transition: opacity 0.3s ease;
 }
 
 .btn-primary:hover .btn-overlay {
