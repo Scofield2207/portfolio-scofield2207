@@ -89,4 +89,4 @@ src/
 - **GitHub** : [https://github.com/Scofield2207](https://github.com/Scofield2207)
 - **LinkedIn** : [https://www.linkedin.com/in/gildas-klougba-561073379/](https://www.linkedin.com/in/gildas-klougba-561073379/)
 - **WhatsApp** : +229 66 57 24 65
-- **Email** : gildasprofessionnel2207@gmail.com 
+- **Email** : gildasklougba7@gmail.com 

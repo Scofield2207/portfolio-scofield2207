@@ -136,7 +136,7 @@ export const Hero = () => {
                   </div>
                   <div className="contact-details">
                     <h4>Email</h4>
-                    <p>gildasprofessionnel2207@gmail.com</p>
+                    <p>gildasklougba7@gmail.com</p>
                   </div>
                 </div>
               </div>
@@ -161,7 +161,7 @@ export const Hero = () => {
                 <button 
                   className="modal-btn-secondary"
                   onClick={() => {
-                    const email = "gildasprofessionnel2207@gmail.com";
+                    const email = "gildasklougba7@gmail.com";
                     const subject = "Demande de CV - Portfolio";
                     const body = "Bonjour,\n\nJe suis intéressé par vos services et j'aimerais obtenir votre CV.\n\nCordialement,";
                     const mailtoUrl = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;

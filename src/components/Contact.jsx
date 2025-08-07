@@ -12,7 +12,7 @@ export const Contact = () => {
   };
 
   const handleEmailClick = () => {
-    const email = "gildasprofessionnel2207@gmail.com";
+    const email = "gildasklougba7@gmail.com";
     const subject = "Demande de contact - Portfolio";
     const body = "Bonjour,\n\nJe suis intéressé par vos services de développement.\n\nCordialement,";
     const mailtoUrl = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
@@ -99,7 +99,7 @@ export const Contact = () => {
                   onClick={handleEmailClick}
                   className="contact-link"
                 >
-                  gildasprofessionnel2207@gmail.com
+                  gildasklougba7@gmail.com
                 </a>
               </p>
               <span className="contact-status">Réponse en moins de 24h</span>
