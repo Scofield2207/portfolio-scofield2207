@@ -90,7 +90,7 @@ export const About = () => (
                   <polyline points="10,9 9,9 8,9"/>
                 </svg>
               </div>
-              <div className="stat-number">20+</div>
+              <div className="stat-number">7+</div>
               <div className="stat-label">Projets réalisés</div>
               <div className="stat-description">Applications web, mobiles et sites e-commerce</div>
             </div>
